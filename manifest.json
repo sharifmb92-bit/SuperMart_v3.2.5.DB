@@ -8,11 +8,17 @@
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#181a1f",
-  "theme_color": "#2c5e8a",
+  "background_color": "#6F4E37",
+  "theme_color": "#6F4E37",
   "lang": "es",
   "categories": ["shopping", "finance", "utilities"],
   "icons": [
+    {
+      "src": "./icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
     {
       "src": "./icon-192.png",
       "sizes": "192x192",
