@@ -7,8 +7,7 @@ const ASSETS_TO_CACHE = [
   './index.html',
   './manifest.json',
   './icon-192.png',
-  './icon-152.png',
-  './icon.svg'
+  './icon-512.png'
 ];
 
 // Instalación y almacenamiento en caché inicial
